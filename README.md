@@ -1,1 +1,1 @@
-project tự học cá nhân về API
+a self-learning project about weather forecast with API
